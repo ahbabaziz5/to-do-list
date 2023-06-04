@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: whitesmoke;
+
+}
+
+.container {
+    border: 1px solid black;
+    height: 200px;
+    width: 27%;
+    display: flex;
+    flex-direction: column;
+    border-style: none;
+    
+    /* padding-left: 40px; */
+
+}
+
+
+button {
+    border-radius: 10px;
+    border-style: none;margin-left: 3px;
+}
+ol{
+    list-style-type:circle;
+    
+    /* background-color: rgb(201, 188, 201); */
+    width: 170;
+  
+}
